@@ -1,0 +1,1 @@
+# Isolated app package initialization
